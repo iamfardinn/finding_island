@@ -57,3 +57,9 @@ You can include screenshots or GIFs here (store them inside a folder like `readm
    ```bash
    git clone https://github.com/yourusername/Finding-Island.git
    cd Finding-Island
+2.Compile the project
+g++ main.cpp -lglut -lGLU -lGL -o FindingIsland
+
+3.Run the executable
+./FindingIsland
+
